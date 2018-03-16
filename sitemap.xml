@@ -6,7 +6,6 @@
 <url> <loc>http://alchemyguy.in/tags/something/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://alchemyguy.in/tags/tagging/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://alchemyguy.in/categories/another-one/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://alchemyguy.in/author/casper/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://alchemyguy.in/author/mukesh/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://alchemyguy.in/author/alchemyguy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://alchemyguy.in/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
