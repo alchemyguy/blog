@@ -3,7 +3,7 @@ title: "bye bye"
 cover: "https://unsplash.it/1280/900/?random?TheFallenTime"
 date: "2018-01-11"
 category: "another one"
-author: "mukesh"
+author: "alchemyguy"
 tags:
     - test
     - something

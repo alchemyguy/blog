@@ -1,7 +1,7 @@
 module.exports = {
   blogPostDir: "sample-posts", // The name of directory that contains your posts.
   blogAuthorDir: "sample-authors", // The name of directory that contains your 'authors' folder.
-  blogAuthorId: "casper", // The default and fallback author ID used for blog posts without a defined author.
+  blogAuthorId: "alchemyguy", // The default and fallback author ID used for blog posts without a defined author.
   siteTitle: "AlchemyBlog", // Site title.
   siteTitleAlt: "Alchemyguys blog ", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", //"https://alchemyguy.in/logos/logo-1024.png", // Logo used for SEO and manifest. e.g.
@@ -15,10 +15,10 @@ module.exports = {
   siteRssAuthor: "Mukesh Chandra", // The author name used in the RSS file
   // siteFBAppID: "1825356251115265", // optional, sets the FB Application ID for using app insights
   sitePaginationLimit: 10, // The max number of posts per page.
-  // googleAnalyticsID: "UA-111982167-1", // GA tracking ID.
+  googleAnalyticsID: "UA-115859499-1", // GA tracking ID.
   // disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // enables Disqus comments, visually deviates from original Casper theme.
   siteSocialUrls: [
-    "http://alchemyguy.in",
+    "http://profile.alchemyguy.in",
     "https://twitter.com/alchemyguy",
     "mailto:alchemycode@gmail.com"
   ],
